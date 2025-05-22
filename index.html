@@ -62,6 +62,14 @@
   </style>
 </head>
 
+<script>
+  // Redirect to login if token not found
+  const token = localStorage.getItem('token');
+  if (!token) {
+    window.location.href = '/auth/login.html'; // adjust path if needed
+  }
+</script>
+
 <body>
   <ul class="navbar">
     <li style="float: left; margin-left: -10px;" class="forecast"><a class="repo-link"
