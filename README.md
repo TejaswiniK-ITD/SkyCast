@@ -5,7 +5,7 @@ SkyCast is a smart weather forecasting web application developed as part of our 
 
 The goal of this project is to build a responsive, user-friendly weather application that demonstrates modern web development practices and team collaboration using Agile methodologies and Azure DevOps for project management.
 
-###Key Features:
+### 📌Key Features:
 
 1. Real-time weather updates based on location
 
@@ -17,7 +17,7 @@ The goal of this project is to build a responsive, user-friendly weather applica
 
 5. Clean and minimal user interface
 
-###Tech Stack:
+### 🛠️Tech Stack:
 
 1. Frontend: HTML, CSS, JavaScript / React
 
