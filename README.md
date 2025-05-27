@@ -24,3 +24,8 @@ The goal of this project is to build a responsive, user-friendly weather applica
 2. API: OpenWeatherMap API 
 
 3. Tools: Azure DevOps (Boards, Wiki, Repos)
+
+## 🤝🏻Contributers:
+1) Tejaswini K
+2) Venisha M
+3) Yasaswini D
